@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm Francis, a front-end Development.
+I'm Francis, a Front-end Development.
 
 
 ### Languages & Tools
