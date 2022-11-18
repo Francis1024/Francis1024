@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm Francis, a Chinese Full Stack Developer.
+I'm Francis, a front-end Development.
 
 
 ### Languages & Tools
