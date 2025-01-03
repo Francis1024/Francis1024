@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm Francis, a Front-end developer.
+A developer who likes to write some code ʕ •ᴥ•ʔ 
 
 
 ### Languages & Tools
